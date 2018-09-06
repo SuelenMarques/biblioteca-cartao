@@ -11,7 +11,7 @@ Exemplo de uso:
 
 ```
 $node
-> let validator = require("biblioteca-cartao")
+> let validator = require("sm-card-validator-lib")
 > validator.cardValidator(36490102462661);
 //'true'
 ```
@@ -25,7 +25,7 @@ $node
 ## instalação
 
 - você deverá ter o node + npm instalados. Para guia de instalação, visite [o site oficial](https://www.npmjs.com/get-npm).
-- proceda com a instalação com `$npm install biblioteca-cartao`
+- proceda com a instalação com `$npm install sm-card-validator-lib`
 
 
 ## roadmap oficial do projeto
